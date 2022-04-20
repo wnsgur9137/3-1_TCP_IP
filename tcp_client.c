@@ -15,11 +15,12 @@ int main(int argc, char *argv[]) {
         int str_len;
         int idx=0, read_len=0;
 
-        if(argc != 3) {
+        if(argc != 3) { // 입력이 잘못 되었을 경우
                 printf("Usage : %s <port>\n", argv[0]);
                 exit(1);
         }
 
+        // IPv4, TCP, protocl = 0
         sock = socket(PF_INET, SOCK_STREAM, 0);
         if(sock == -1)
                 error_handling("socket() error");
