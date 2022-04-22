@@ -18,6 +18,7 @@
 ![week5](/images/week5_helloServerClient.png)
 
 <br>
+<br>
 
 > ## **week6 (2022-04-07)**
 
@@ -32,5 +33,23 @@ UDP server/client
 ![week6_udpServer](/images/week6_udpServer.png)  
 ![week6_udpClient](/images/week6_udpClient.png)  
 
+<br>
+<br>
+
+> ## **week7 (2020-04-14)**
+
+endian_conv
+![week7_endian_conv](/images/week7_endian_conv.png)  
+
+inet_addr
+![week7_inet_addr](/images/week7_inet_addr.png)  
+
+inet_aton
+![week7_inet_aton](/images/week7_inet_aton.png)  
+
+inet_ntoa
+![week7_inet_ntoa](/images/week7_inet_ntoa.png)  
+
+<br>
 <br>
 
